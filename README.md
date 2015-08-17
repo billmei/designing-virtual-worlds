@@ -1,6 +1,6 @@
 # Designing Virtual Worlds: Complexity, Emergence, and Cellular Automata
 
-**Note: This is *not* my work, it's a repo of files from a workshop during Waterloo Unlimited 2010.
+**Note: This is *NOT* my work, it's a repo of files from a workshop during Waterloo Unlimited 2010.**
 
 This workshop looks at how simple rules can lead to complex, unexpected results. We start with a basic simulated world and add rules and simple creatures, exploring what happens when these rules are changed. Programming experience is not required.
 
