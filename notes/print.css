@@ -1,0 +1,65 @@
+body {
+  background: white;
+  }
+
+#menu {
+  display: none;
+}
+
+#main {
+  margin-top: 20px;
+}
+
+h1 {
+  text-align: center;
+  }
+
+h1,h2,h3,h4 {
+  color: black;
+  font-family: Helvetica, Arial, sans-serif;
+  }
+
+
+dl,blockquote {
+  font-family: Helvetica, Arial, sans-serif;
+  margin-left: 20px;
+  padding: 0px;
+}
+
+pre{
+  margin-left: 20px;
+  font-size: 0.7em;
+  padding: 0px;
+}
+
+body {
+  color: black;
+  }
+
+#main table tr td a {
+  text-decoration: none;
+  }
+
+#main table{
+  padding: 2px;
+  font-family: Helvetica, Arial, sans-serif;
+  border-spacing: 0px;
+}
+
+#main li {
+  margin: 0px;
+  }
+
+td{
+  padding-left: 5px;
+  padding-right: 5px;
+  }
+
+td.date{
+  text-align: center;
+  }
+
+img{
+  background: white;
+  }
+
